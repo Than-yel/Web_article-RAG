@@ -11,7 +11,7 @@ def clean_text(text: str) -> str:
 def run_ingestion() -> None:
     """Run the notebook-derived ingestion pipeline.
 
-    The implementation should be filled from notebooks/Practical_2_RAG_Fixed.ipynb
+    The implementation should be filled from notebooks/Web_Article RAG.ipynb
     cells 1-21, preserving its chunking, embedding, and Chroma behavior.
     """
     raise NotImplementedError("Ingestion pipeline must be ported from the notebook.")

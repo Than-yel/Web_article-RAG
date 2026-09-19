@@ -22,7 +22,7 @@ The existing notebook is the source of truth for the RAG logic that already work
 
 Use:
 
-`notebooks/Practical_2_RAG_Fixed.ipynb`
+`notebooks/Web_Article RAG.ipynb`
 
 as the reference implementation.
 
@@ -63,7 +63,7 @@ practical2-rag-app/
 │   └── test_main.py
 │
 ├── notebooks/
-│   └── Practical_2_RAG_Fixed.ipynb
+│   └── Web_Article RAG.ipynb
 │
 ├── data/
 │   └── chroma/
@@ -338,7 +338,7 @@ Do not make major architectural changes without explicit instruction.
 When first given this repository:
 
 1. Read this file.
-2. Inspect `notebooks/Practical_2_RAG_Fixed.ipynb`.
+2. Inspect `notebooks/Web_Article RAG.ipynb`.
 3. Focus only on notebook cells 1–21.
 4. Ignore the debugging section specified above.
 5. Explain how each relevant notebook section maps to the production files.

@@ -4,7 +4,7 @@ Deployable RAG application scaffold based on the supplied notebook.
 
 ## Structure
 
-- `notebooks/Practical_2_RAG_Fixed.ipynb` contains the source notebook.
+- `notebooks/Web_Article RAG.ipynb` contains the source notebook.
 - `AGENTS.md` contains the project implementation guidance copied from the supplied `CODEX.md`.
 - `app/` contains the FastAPI backend and RAG modules.
 - `frontend/` contains the Streamlit client.
