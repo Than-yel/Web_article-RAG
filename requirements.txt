@@ -1,0 +1,14 @@
+beautifulsoup4
+chromadb
+cohere
+fastapi
+httpx
+langchain
+langchain-chroma
+langchain-cohere
+langchain-community
+pydantic-settings
+pytest
+requests
+streamlit
+uvicorn[standard]
